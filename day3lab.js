@@ -27,13 +27,13 @@ photoList :["photo1","photo2","photo3","photo4","photo5"],
 	         return this.photoList[this.currentPhotoIndex];
      },
 
-//console.log(slideshow.photoList);
-//console.log(slideshow.nextPhoto());
-//console.log(slideshow.getCurrentPhoto());
-// console.log(slideshow.nextPhoto());
- //console.log(slideshow.nextPhoto());
-// console.log(slideshow.nextPhoto());
-// console.log(slideshow.nextPhoto());
+console.log(slideshow.photoList);
+console.log(slideshow.nextPhoto());
+console.log(slideshow.getCurrentPhoto());
+ console.log(slideshow.nextPhoto());
+ console.log(slideshow.nextPhoto());
+ console.log(slideshow.nextPhoto());
+ console.log(slideshow.nextPhoto());
 
  playInterval :null ,
      play : function(){
